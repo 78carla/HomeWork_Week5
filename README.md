@@ -1,3 +1,3 @@
-# Encode Bootcamp Lesson 10
+# Encode Bootcamp Homework - WEEK 5
 
-Exercise scope: write the first smart contract - NFT part.
+Lottery project
